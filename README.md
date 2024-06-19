@@ -12,27 +12,27 @@ git clone https://github.com/rsilva8/MISA.git
 
 ## UK Biobank Data
 ### MMIVA
-  [runMMIVA_C030_regSite_N2907.m](/MMIVA/UKB/MMIVA/runMMIVA_C030_regSite_N2907.m)
+  [runMMIVA_C030_regSite_N2907.m](UKB/MMIVA/runMMIVA_C030_regSite_N2907.m)
 
 ### MANCOVA
-  [runStats_UKB_MIVA2step_wICApre_preregSite_C030_N2907.m](/MMIVA/UKB/MANCOVA/runStats_UKB_MIVA2step_wICApre_preregSite_C030_N2907.m)
+  [runStats_UKB_MIVA2step_wICApre_preregSite_C030_N2907.m](/UKB/MANCOVA/runStats_UKB_MIVA2step_wICApre_preregSite_C030_N2907.m)
 
 ## Patient Data
 ### MMIVA
 GICA initialization: 
-  [runMMIVA_allHCSZ.m](/MMIVA/HCSZ/MMIVA/runMMIVA_allHCSZ.m),
-  [runMMIVA_allHCSZ_preregSite.m](/MMIVA/HCSZ/MMIVA/runMMIVA_allHCSZ_preregSite.m)
+  [runMMIVA_allHCSZ.m](/HCSZ/MMIVA/runMMIVA_allHCSZ.m),
+  [runMMIVA_allHCSZ_preregSite.m](/HCSZ/MMIVA/runMMIVA_allHCSZ_preregSite.m)
 
 UKB initialization:
-  [runMMIVA_allHCSZ_w_init.m](/MMIVA/HCSZ/MMIVA/runMMIVA_allHCSZ_w_init.m),
-  [runMMIVA_allHCSZ_w_initUKB2907_preregSite.m](/MMIVA/HCSZ/MMIVA/runMMIVA_allHCSZ_w_initUKB2907_preregSite.m)
+  [runMMIVA_allHCSZ_w_init.m](/HCSZ/MMIVA/runMMIVA_allHCSZ_w_init.m),
+  [runMMIVA_allHCSZ_w_initUKB2907_preregSite.m](/HCSZ/MMIVA/runMMIVA_allHCSZ_w_initUKB2907_preregSite.m)
 
 ### MANCOVA
 GICA initialization: 
-  [runStats_HCSZ_preregSite_C030_gicainit.m](/MMIVA/HCSZ/MANCOVA/runStats_HCSZ_preregSite_C030_gicainit.m)
+  [runStats_HCSZ_preregSite_C030_gicainit.m](/HCSZ/MANCOVA/runStats_HCSZ_preregSite_C030_gicainit.m)
 
 UKB initialization: 
-  [runStats_HCSZ_preregSite_C030_ukbinit.m](/MMIVA/HCSZ/MANCOVA/runStats_HCSZ_preregSite_C030_ukbinit.m)
+  [runStats_HCSZ_preregSite_C030_ukbinit.m](/HCSZ/MANCOVA/runStats_HCSZ_preregSite_C030_ukbinit.m)
 
 ## Reference
 If you find this repository useful, please cite the following paper:
