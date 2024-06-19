@@ -20,12 +20,12 @@ git clone https://github.com/rsilva8/MISA.git
 ## Patient Data
 ### MMIVA
 GICA initialization: 
-  [runMMIVA_allHCSZ.m](/HCSZ/MMIVA/runMMIVA_allHCSZ.m),
-  [runMMIVA_allHCSZ_preregSite.m](/HCSZ/MMIVA/runMMIVA_allHCSZ_preregSite.m)
+  [runMMIVA_allHCSZ.m](/HCSZ/MMIVA/GICA/runMMIVA_allHCSZ.m),
+  [runMMIVA_allHCSZ_preregSite.m](/HCSZ/MMIVA/GICA/runMMIVA_allHCSZ_preregSite.m)
 
 UKB initialization:
-  [runMMIVA_allHCSZ_w_init.m](/HCSZ/MMIVA/runMMIVA_allHCSZ_w_init.m),
-  [runMMIVA_allHCSZ_w_initUKB2907_preregSite.m](/HCSZ/MMIVA/runMMIVA_allHCSZ_w_initUKB2907_preregSite.m)
+  [runMMIVA_allHCSZ_w_init.m](/HCSZ/MMIVA/UKB/runMMIVA_allHCSZ_w_init.m),
+  [runMMIVA_allHCSZ_w_initUKB2907_preregSite.m](/HCSZ/MMIVA/UKB/runMMIVA_allHCSZ_w_initUKB2907_preregSite.m)
 
 ### MANCOVA
 GICA initialization: 
